@@ -1,0 +1,24 @@
+human 46
+spinach 12
+aloe vera 14
+maize 20
+citrus 18
+garlic 16
+pea 14
+rye 14
+broad bean 12
+artichoke 34
+alfalfa 32
+badger 32
+pistachio 30
+cork oak 24
+tomato 24
+cannabis 20
+bean 22
+earthworm 36
+pig 38
+peanut 40
+oats 42
+wolverine 42
+coatimundi 38
+black mulberry 308

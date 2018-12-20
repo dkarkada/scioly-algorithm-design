@@ -1,0 +1,5 @@
+You have an unsorted list of organisms and their respective number of chromosomes. You want to find out what chromosome number is most common. For example, if 12 different organisms have 26 chromosomes, and all the other organisms have differing numbers of chromosomes, then 26 is the most common chromosome number.
+
+Given a dictionary whose keys are organism names and whose values are the respective chromosome number, return the most common chromosome number. Complete the function most_chromosomes() in chromosome.py and be sure to change the return statement appropriately. For full credit, implement this in linear time.
+
+Running tester.py will use your implementation of most_chromosomes() on a data set provided by the test files in the tests/ directory. The expected output is given in the output files in the same directory.

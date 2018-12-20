@@ -1,0 +1,49 @@
+Alfalfa 32
+Avocado 24
+Barley 14
+Bermudagrass 36
+Broad bean 12
+Cashew 42
+Corn 20
+Cotton 52
+Durian 56
+Flax 30
+Garden pea 14
+Grape 38
+Guava 22
+Kidney bean 22
+Mango 40
+Oats 42
+Onion 16
+Papaya 18
+Peanut 40
+Pineapple 50
+Potato 48
+Rice 24
+Rye 14
+Sorghum 20
+Soybean 40
+Squash 40
+Sugar beet 18
+Sugar cane 80
+Tamarind 24
+Tobacco 48
+Tomato 24
+Wheat, durum 28
+Wheat, common 42
+Man 46
+Cat 38
+Cattle 60
+Chicken 78
+Dog 78
+Donkey 62
+Frog 26
+Fruit fly 8
+Grasshopper 24
+Honeybee 32
+Horse 64
+House fly 12
+Mosquito 6
+Rabbit 44
+Red ant 48
+Rhesus monkey 42
